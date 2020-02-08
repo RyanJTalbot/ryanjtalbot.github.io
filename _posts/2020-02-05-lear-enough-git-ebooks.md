@@ -4,7 +4,7 @@ title: This is the title of the post1
 postHero: '/images/hero.jpg'
 postAuthor: Me, Myself, and I
 authorTwitter: http://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+gravatar: https://s.gravatar.com/avatar/8aa8860849690fd1397f0c42faa71795?s=80
 postFooter: I'm some additional information, and maybe a <a href="">link or two</a>
 ---
 

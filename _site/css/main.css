@@ -295,7 +295,7 @@ span.drop-trigger {
   text-align: center;
   text-decoration: none;
   vertical-align: middle;
-  width: 1.5em;
+  width: 2.0em;
 }
 .social-list {
   list-style: none;
@@ -329,25 +329,25 @@ span.drop-trigger {
   width: 0;
 }
 .hero-home {
-  background-image: url(/images/hero.jpg);
+  background-image: url(/images/alligator.jpg);
   background-position: center top;
 }
 .hero-content {
   color: #fff;
   position: relative;
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   top: 50%;
   transform: translate(0,-50%);
 }
 .hero-content h1 {
-  color: rgba(255,255,255,0.8);
-  font-size: 7vw;
-  margin-bottom: 0.25em;
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 8vw;
+  margin-bottom: 2.25em;
 }
 .hero-content .social-link {
   background-color: rgba(255,255,255,0.8);
-  color: #557c83;
+  color: rgba(0, 0, 0, 0.6);
 }
 .hero-content .social-link:hover {
   background-color: #000;
