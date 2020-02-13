@@ -306,8 +306,9 @@ span.drop-trigger {
   display: inline-block;
   margin: 0 0.5em;
 }
-
-
+#social-git {
+  position: absolute;
+}
 
 /* HERO */
 
@@ -318,14 +319,14 @@ span.drop-trigger {
   height: 90vh;
 }
 .full-hero:after {
-  bottom: 2vh;
+  bottom: 0;
   border: 10px solid #000;
   border-color: #fff transparent transparent;
   content: "";
   height: 0;
-  left: 50%;
+  left: 52.5%;
   position: absolute;
-  transform: translate(-50%,0);
+  transform: translate(-60%,0);
   width: 0;
 }
 .hero-home {

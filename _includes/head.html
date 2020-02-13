@@ -2,7 +2,7 @@
         {% if page.title %}
           <title>{{ page.title }} | Test Page</title>
         {% else %}
-          <title>Ryan Talbot</title>
+          <title>Ryan JT</title>
         {% endif %}
         {% if page.description %}
           <meta name="description" content="{{ page.description }}">
@@ -24,7 +24,10 @@
       
           ga('create', 'UA-91380675-1', 'auto');
           ga('send', 'pageview');
-      
+          
+          document.addEventListener("DOMContentLoaded", function() {
+            activateGallery();
+          });
         </script>
           
       </head>
