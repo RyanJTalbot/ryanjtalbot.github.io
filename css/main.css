@@ -505,10 +505,6 @@ span.drop-trigger {
 .gallery-thumbs img:hover {
   opacity: 1;
 }
-.photo-title,
-.photo-desc {
-  display: none;
-}
 .gallery-thumbs .current img {
   box-shadow: 0 0 0 5px #ed6e2f;
   opacity: 1;
@@ -670,7 +666,7 @@ span.drop-trigger {
     padding: 1em;
   }
   .gallery .gallery-thumbs {
-    flex: 1 1 0;
+    flex: 1;
     height: auto;
     white-space: nowrap;
     width: 100vw;
@@ -684,7 +680,7 @@ span.drop-trigger {
     width: auto;
   }
   .gallery .gallery-info {
-    flex: 1 1 auto;
+    flex: 1;
   }
   
   /* BLOG STYLES */
