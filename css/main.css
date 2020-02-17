@@ -511,6 +511,7 @@ span.drop-trigger {
 }
 .gallery-photo {
   position: relative;
+  margin-top: 5em;
 }
 .gallery-photo img {
   width: 100%;
@@ -520,6 +521,7 @@ span.drop-trigger {
 }
 .gallery-info h3 {
   margin-bottom: 1em;
+  margin-top: 5em;
 }
 
 /* PAGE STYLES */
@@ -676,7 +678,7 @@ span.drop-trigger {
   }
   .gallery-thumbs img {
     height: 7vh;
-    margin: 0 10px 0 0;
+    margin: 3em 10px 0 0;
     width: auto;
   }
   .gallery .gallery-info {
