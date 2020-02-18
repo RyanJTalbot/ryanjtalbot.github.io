@@ -373,7 +373,7 @@ span.drop-trigger {
   width: 90vw;
 }
 .home-section h2 {
-  margin-bottom: 1.5rem;
+  margin-bottom: .3rem;
   text-align: center;
 }
 .home-callout {
@@ -417,7 +417,7 @@ span.drop-trigger {
   box-sizing: border-box;
   float: left;
   font-size: 1rem;
-  margin: 6rem 0 0;
+  margin: 3rem 0 0;
   padding: 0 3%;
   width: 33%;
 }
@@ -434,6 +434,7 @@ span.drop-trigger {
 }
 .bio-copy {
   font-size: 0.75em;
+  text-align: center;
 }
 .bio-box .social-link {
   display: block;
