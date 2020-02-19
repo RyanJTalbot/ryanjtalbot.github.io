@@ -435,6 +435,7 @@ span.drop-trigger {
 .bio-copy {
   font-size: 0.75em;
   text-align: center;
+  padding: 2.5em;
 }
 .bio-box .social-link {
   display: block;
