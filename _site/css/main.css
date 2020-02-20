@@ -661,6 +661,10 @@ span.drop-trigger {
     font-size: 1.3rem;
     width: auto;
   }
+  .bio-box img {
+    width: 20vw;
+    margin: 0 40%;
+  }
 
   /* GALLERY STYLES */
   .gallery {
