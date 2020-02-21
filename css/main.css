@@ -513,7 +513,7 @@ span.drop-trigger {
 }
 .gallery-photo {
   position: relative;
-  margin-top: 5em;
+  padding: 5em;
 }
 .gallery-photo img {
   width: 100%;
@@ -664,6 +664,7 @@ span.drop-trigger {
   .bio-box img {
     width: 20vw;
     margin: 0 40%;
+    height: 25vh;
   }
 
   /* GALLERY STYLES */
