@@ -10,7 +10,7 @@ postFooter: Additional information, and maybe a <a href="#">link or two</a>
 
 I think it makes more sense to learn HTML then CSS followed by JavaScript(js) or Ruby. What I didn't know upfront was with js its also important to learn or use npm, json, and jquery. 
 
-<img class="pull-left" src="https://placekitten.com/g/400/200"
-alt="kitten">
+<img class="posts-image" src="/images/tech2.jpg"
+alt="tech picture">
 
 Whenever I find myself growing grim about the mouth; whenever it is 
