@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Learn from the start
-postHero: /images/shark.jpg
+postHero: /images/codes.jpg
 author: Ryan
 authorTwitter: 
 gravatar: https://s.gravatar.com/avatar/8aa8860849690fd1397f0c42faa71795?s=80
