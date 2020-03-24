@@ -570,6 +570,9 @@ span.drop-trigger {
 .blog-posts .post-header {
   font-size: 0.8rem;
 }
+#corona {
+  margin-right: 1.3em;
+}
 .post-header {
   margin-bottom: 1.5em;
 }
@@ -641,8 +644,6 @@ span.drop-trigger {
 }
 
 
-
-
 @media (max-width: 800px) {
   html {
     box-shadow: none;
@@ -709,6 +710,10 @@ span.drop-trigger {
   }
   .blog-previews {
     padding: 0;
+  }
+  #corona {
+    width: 75%;
+    height: 75%;
   }
 
   /* MOBILE MENU */
