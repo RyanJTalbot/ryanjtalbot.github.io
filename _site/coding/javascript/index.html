@@ -95,7 +95,13 @@ engine to execute it.</p>
   <input id="base" type="color" name="base" value="#ffc600">
 </div>
 
+<br><h2>Toggle Dark/Light Mode</h2>
+<p>Click the button to toggle between dark and light mode for this page.</p>
+
+<button onclick="myFunction()">Toggle dark mode</button><br>
+
 <img src="https://source.unsplash.com/7bwQXzbF6KE/800x500" id="pic">
+
 
 <style>
   :root {
@@ -132,13 +138,21 @@ engine to execute it.</p>
   input {
     width: 100px;
   }
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
 
+  #pic {
+    margin: 5rem;
+  }
   @media (max-width: 1100px) {
     #pic {
       width: 75%;
       height: 75%;
     }
   }
+
 
 </style>
 
@@ -152,6 +166,13 @@ engine to execute it.</p>
 
   inputs.forEach(input => input.addEventListener('change', handleUpdate));
   inputs.forEach(input => input.addEventListener('mousemove', handleUpdate));
+
+
+
+function myFunction() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+}
 
 </script>
 
