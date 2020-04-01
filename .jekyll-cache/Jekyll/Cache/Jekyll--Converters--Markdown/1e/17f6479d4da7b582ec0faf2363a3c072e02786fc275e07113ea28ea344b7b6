@@ -1,13 +1,4 @@
----
-layout: post
-title: April 1st
-postHero: /images/screen.jpg
-author: Ryan
-authorTwitter: 
-gravatar: https://s.gravatar.com/avatar/8aa8860849690fd1397f0c42faa71795?s=80
-postFooter: Additional information, and maybe a <a href="#">link or two</a>
----
-I've been doing some JavaScript projects and here's one of the exercises I recently completed via the NuCamp basics bootcamp.
+I"n<p>I’ve been doing some JavaScript projects and here’s one of the exercises I recently completed via the NuCamp basics bootcamp.</p>
 
 <body id="bods"> 
 
@@ -15,7 +6,7 @@ I've been doing some JavaScript projects and here's one of the exercises I recen
 
 <ol id="dynamic-list"></ol>
 
-<input type="text" id="candidate"/>
+<input type="text" id="candidate" />
 <button onclick="addItem()">add item</button>
 
 
@@ -29,3 +20,5 @@ function addItem(){
 	ol.appendChild(li);
 }
 </script>
+</body>
+:ET
