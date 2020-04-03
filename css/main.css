@@ -643,6 +643,18 @@ span.drop-trigger {
   font-size: 0.8em;
 }
 
+/* CODING STYLES */
+#js-pics {
+  box-align: center;
+  width: 100%;
+  border: black solid .2em;
+  margin: 5rem 0 0 0;
+}
+
+#hr {
+  margin: 3rem 0;
+}
+
 
 @media (max-width: 800px) {
   html {
